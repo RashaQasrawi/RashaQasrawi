@@ -24,7 +24,3 @@ I don’t just write HTML & CSS — I shape user journeys, one interaction at a 
 ### 📫 Let’s Connect  
 Curious about what I’m building?  
 Let’s link up on [LinkedIn](www.linkedin.com/in/rasha-qasrawi-6b2b45354) — or dive into my work right here on GitHub.
-
----
-
-هل تحبين يكون التون (tone) أكثر جدية أو تبينه مرح أكثر؟
